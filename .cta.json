@@ -1,0 +1,17 @@
+{
+  "projectName": "is-it-game-night",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "pnpm",
+  "tailwind": true,
+  "addOnOptions": {},
+  "git": true,
+  "version": 1,
+  "addOns": true,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "biome",
+    "start",
+    "shadcn"
+  ]
+}
